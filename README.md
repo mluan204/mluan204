@@ -10,5 +10,5 @@ My name is Minh Luan. I am an undergraduate student majoring in Information Tech
 
 <a href="https://github.com/mluan204/Raven/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=mluan204&repo=Ravenw&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=mluan204&repo=Raven&theme=radical" />
 </a>
