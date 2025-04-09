@@ -8,7 +8,7 @@ My name is Minh Luan. I am an undergraduate student majoring in Information Tech
 
 ![Luan github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mluan204&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-<a href="https://github.com/mluan204/Raven/">
+<a href="[https://github.com/mluan204/Raven/](https://github.com/mluan204/Raven)">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=mluan204&repo=Raven&theme=radical" />
 </a>
