@@ -8,6 +8,11 @@ My name is Minh Luan. I am an undergraduate student majoring in Information Tech
 
 ![Luan github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mluan204&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
+<a href="https://github.com/yurri2506/IE213_QuanLyChungChi">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=yurri2506&repo=IE213_QuanLyChungChi&theme=gruvbox" />
+</a>
+
 <a href="https://github.com/mluan204/FoodRush-FRONTEND">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=mluan204&repo=FoodRush-FRONTEND&theme=gruvbox" />
